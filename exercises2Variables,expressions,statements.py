@@ -1,4 +1,4 @@
-#NAME: Cristian Felipe Salinas
+#NAME: Cristian Felipe Salinas Contreras
 print("Exercise 2: Write a program that uses input to prompt a user for their name and then welcomes them.\n\nEnter your name: Chuck\nHello Chuck")
 name=input("Enter your name: ")
 print(name)
