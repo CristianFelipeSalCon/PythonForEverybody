@@ -1,7 +1,5 @@
 #Name: Cristian Felipe Salinas Contreras
-#Exercise 1: Write a program to read through a file and print 
-#the contents of the file (line by line) are all in upper case. Executing 
-#the program will look as follows:
+print("Exercise 1: Write a program to read through a file and print the contents of the file (line by line) are all in upper case. Executing the program will look as follows:")
 mboxshort=open("mbox-short.txt")
 mboxshort=mboxshort.read()
 mboxshort=mboxshort.upper()
