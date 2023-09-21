@@ -61,4 +61,4 @@ while True:
 
         
     except:
-        print("This file dooes not exist.")
+        print("This file does not exist.")
